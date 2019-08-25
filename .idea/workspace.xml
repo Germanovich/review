@@ -1,7 +1,241 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5aa27ae-d8f8-4037-8557-bdc483e079bf" name="Default Changelist" comment="test" />
+    <list default="true" id="f5aa27ae-d8f8-4037-8557-bdc483e079bf" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project1/RegularExpressions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project1/SortLexemes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project1/SortParagraphs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project1/SortWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/branch_program/task1/BranchProgram1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/branch_program/task2/BranchProgram2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/branch_program/task3/BranchProgram3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/branch_program/task4/BranchProgram4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/branch_program/task5/BranchProgram5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/cycle_program/task1/CycleProgram1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/cycle_program/task2/CycleProgram2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/cycle_program/task3/CycleProgram3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/cycle_program/task4/CycleProgram4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/cycle_program/task5/CycleProgram5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/cycle_program/task6/CycleProgram6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/cycle_program/task7/CycleProgram7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/cycle_program/task8/CycleProgram8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/linear_program/task1/LinearProgram1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/linear_program/task2/LinearProgram2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/linear_program/task3/LinearProgram3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/linear_program/task4/LinearProgram4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/linear_program/task5/LinearProgram5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module1/linear_program/task6/LinearProgram6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task1/ArraysOfArrays1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task10/ArraysOfArrays10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task11/ArraysOfArrays11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task12/ArraysOfArrays12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task13/ArraysOfArrays13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task14/ArraysOfArrays14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task15/ArraysOfArrays15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task16/ArraysOfArrays16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task2/ArraysOfArrays2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task3/ArraysOfArrays3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task4/ArraysOfArrays4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task5/ArraysOfArrays5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task6/ArraysOfArrays6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task7/ArraysOfArrays7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task8/ArraysOfArrays8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/arrays_of_arrays/task9/ArraysOfArrays9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task1/Decomposition1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task10/Decomposition10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task11/Decomposition11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task12/Decomposition12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task13/Decomposition13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task14/Decomposition14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task15/Decomposition15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task16/Decomposition16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task17/Decomposition17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task2/Decomposition2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task3/Decomposition3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task4/Decomposition4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task5/Decomposition5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task6/Decomposition6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task7/Decomposition7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task8/Decomposition8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/decomposition/task9/Decomposition9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/one_dimensional_array/task1/OneDimensionalArray1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/one_dimensional_array/task10/OneDimensionalArray10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/one_dimensional_array/task2/OneDimensionalArray2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/one_dimensional_array/task3/OneDimensionalArray3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/one_dimensional_array/task4/OneDimensionalArray4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/one_dimensional_array/task5/OneDimensionalArray5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/one_dimensional_array/task6/OneDimensionalArray6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/one_dimensional_array/task7/OneDimensionalArray7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/one_dimensional_array/task8/OneDimensionalArray8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/one_dimensional_array/task9/OneDimensionalArray9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/sorting/task1/Sorting1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/sorting/task2/Sorting2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/sorting/task3/Sorting3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/sorting/task4/Sorting4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/sorting/task5/Sorting5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/sorting/task6/Sorting6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/sorting/task7/Sorting7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module2/sorting/task8/Sorting8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/char_array/task1/CharArray1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/char_array/task2/CharArray2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/char_array/task3/CharArray3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/char_array/task4/CharArray4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/char_array/task5/CharArray5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/regular_expressions/task1/RegularExpressions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/regular_expressions/task1/SortLexemes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/regular_expressions/task1/SortParagraphs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/regular_expressions/task1/SortWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/regular_expressions/task2/RegularExpresions2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/string_and_stringbuilder/task1/String1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/string_and_stringbuilder/task10/String10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/string_and_stringbuilder/task2/String2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/string_and_stringbuilder/task3/String3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/string_and_stringbuilder/task4/String4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/string_and_stringbuilder/task5/String5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/string_and_stringbuilder/task6/String6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/string_and_stringbuilder/task7/String7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/string_and_stringbuilder/task8/String8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module3/string_and_stringbuilder/task9/String9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task1/AggregationAndComposition1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task1/components/Sentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task1/components/Text.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task1/components/Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task2/AggregationAndComposition2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task2/components/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task2/components/Engine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task2/components/Wheel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task3/AggregationAndComposition3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task3/components/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task3/components/District.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task3/components/Region.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task3/components/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task4/AggregationAndComposition4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task4/components/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task4/components/AccountComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task4/components/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task4/components/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task5/AggregationAndComposition5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task5/components/Agency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task5/components/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task5/components/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task5/components/Tour.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task5/variety/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task5/variety/Purpose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/aggegation_and_composition/task5/variety/Transport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task1/Class1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task1/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task10/Airline.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task10/Class10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task10/Flight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task2/Class2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task2/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task3/Class3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task3/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task4/Class4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task4/Train.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task5/Class5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task5/Counter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task6/Class6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task6/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task7/Class7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task7/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task8/Class8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task8/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task8/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task9/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task9/BookShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module4/classes_and_objects/task9/Class9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task1/File/File.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task1/File/PathToTheFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task1/File/Text.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task1/File/TextFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task1/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task1/utility/Utility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task2/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task2/cashbox/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task2/cashbox/Payment$moneyAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task2/cashbox/Payment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task2/cashbox/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task2/cashbox/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task3/Calendar/Calendar$Holiday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task3/Calendar/Calendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task3/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task4/DragonStart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task4/Item/DragonCave.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task4/Item/Subjects/Armor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task4/Item/Subjects/Weapon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task4/Item/Treasure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task4/Item/Type/ArmorType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task4/Item/Type/WeaponType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task4/Utility/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task4/Utility/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/FlowersStart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/Bouquet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/Entity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/Type/FlowerType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/Type/WrapType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/flower/Flower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/flower/Hydrangea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/flower/Rose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/flower/Sakura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/flower/Tulip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/wrap/Cloth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/wrap/Paper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/wrap/Ribbon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/components/wrap/Wrap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/factory/ArtificialFlower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/factory/FlowerAbstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/factory/NaturalFlower.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/factory/WrapperSelection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/factory/WrapperSelection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/utility/BouquetBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/utility/BouquetUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/utility/FlowerGenerator$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/utility/FlowerGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/utility/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module5/task5/utility/WrapGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/entity/CatalogObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/entity/Content.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/entity/book/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/entity/book/BookBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/entity/book/Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/entity/user/Email.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/entity/user/Letter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/entity/user/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/entity/user/User$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/entity/user/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/entity/user/UserBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/utils/CatalogFileHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/utils/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/utils/Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/utils/Pagination.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/utils/PasswordUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/utils/UserFileHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task1/utils/UserUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task2/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task2/comparator/DateComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task2/comparator/EmailComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task2/entity/Note.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task2/logic/NotepadFileHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task2/logic/NotepadHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task2/logic/NotepadPrinter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task2/logic/NotepadPrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task2/logic/PrinterCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task2/menu/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task3/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task3/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task3/archive/Archive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task3/archive/ArchiveService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task3/entity/Address.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task3/entity/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task3/entity/Sex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task3/entity/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task4/Task4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task4/component/Port.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/untitled3/by/etc/module6/task4/component/Ship.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,19 +249,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/etc/module6/task3/Server.java">
+        <entry file="file://$PROJECT_DIR$/src/by/etc/module5/task5/components/flower/Flower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+            <state relative-caret-position="153">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/etc/module5/task5/components/flower/Flower.java">
+        <entry file="file://$PROJECT_DIR$/src/by/etc/module2/sorting/task2/Sorting2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            <state relative-caret-position="153">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -208,6 +442,30 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="etc" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+              <item name="module2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+              <item name="module2" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+              <item name="module2" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+              <item name="task2" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -346,8 +604,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24614395" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24614395" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -358,7 +617,7 @@
       <window_info anchor="bottom" id="Messages" order="0" sideWeight="0.4993573" weight="0.2983871" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.31868133" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49324325" weight="0.28494623" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49324325" visible="true" weight="0.28494623" />
       <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.6966581" weight="0.3965054" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -517,13 +776,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/by/etc/module4/aggegation_and_composition/task2/components/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/etc/module4/aggegation_and_composition/task2/AggregationAndComposition2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -889,8 +1141,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/etc/module5/task5/components/flower/Flower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="153">
           <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/etc/module2/sorting/task2/Sorting2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
